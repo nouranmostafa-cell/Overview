@@ -3,13 +3,21 @@
 <h1 align="center">Hi 👋, I'm Nouran Bakr</h1>
 <h3 align="center">A passionate frontend developer/ UI designer from Egypt</h3>
 
-- 🔭 I’m currently working on [Full Stack Doctor Appointment Booking System Using MERN Stack](https://github.com/nouranmostafa-cell/Doctor-Appointment-Booking-System)
+- 🔭 I’m currently attending the Information Technology Institute (ITI) 9-Month Professional Training Program under the Open Source track
 
-- 🌱 I’m currently learning **express.js**
+- 🌱 Finished Courses in ITI :
+    • Computer Network Fundamentals
+    • Data Structures and Algorithms
+    • Database Fundamentals
+    • HTML5 & CSS3
+    • Introduction to Programming
+    • Introduction to Software Engineering
+    • Object-Oriented Programming Concepts
+    • Operating Systems Fundamentals
 
 - 👨‍💻 All of my projects are available at [https://github.com/nouranmostafa-cell](https://github.com/nouranmostafa-cell)
 
-- 💬 Ask me about **react, Node.js, Figma**
+- 💬 Ask me about **React, Node.js, Figma**
 
 - 📫 How to reach me **nouranmostafa1234@gmail.com**
 
